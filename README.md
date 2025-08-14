@@ -37,7 +37,7 @@ This Salesforce application manages volunteers and events, and automatically ass
 - Saves time and improves operational efficiency.
 
 ## Screenshots
-![Dashboard](Event_Volunteer_Management\Screenshots\Screenshot 2025-08-14 194214.png)
+![Dashboard](Event_Volunteer_Management/Screenshots/Dashboard.png)
 
 
 
